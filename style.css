@@ -1,0 +1,30 @@
+.section-hero{
+    background-image: url("asset/bg-image-hero.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh; /*100% de la HAUTEUR DE L'ECRAN */
+    
+}
+
+.white{
+    color: white;
+}
+
+.section-pexels{
+    background-image: url(asset/Pexels\ Photo\ by\ Nick\ \ Gorniok.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+}
+
+.center{
+    text-align: center;
+}
+
+.right{
+    text-align: right;
+}
+
+.left{
+    text-align: left;
+}
